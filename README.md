@@ -85,3 +85,8 @@ lein test-refresh
 ### Style Guide
 
 O projeto vai seguir o style guide de clojure [disponível aqui](https://github.com/bbatsov/clojure-style-guide).
+
+
+## Dojo in Fork
+
+* Lua: [castrolol/dojo-s01e02-escrevendo-no-celular-em-lua](https://github.com/castrolol/dojo-s01e02-escrevendo-no-celular-em-lua)
