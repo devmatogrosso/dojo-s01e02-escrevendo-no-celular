@@ -95,3 +95,4 @@ O projeto vai seguir o style guide de clojure [disponível aqui](https://github.
 * PHP: [gpedro/dojo-s01e02-escrevendo-no-celular.php](https://github.com/gpedro/dojo-s01e02-escrevendo-no-celular.php)
 * NodeJS: [gpedro/dojo-s01e02-escrevendo-no-celular.js](https://github.com/gpedro/dojo-s01e02-escrevendo-no-celular.js)
 * AngularJS (Directive): [gpedro/dojo-s01e02-escrevendo-no-celular.angular](https://github.com/gpedro/dojo-s01e02-escrevendo-no-celular.angular)
+* Ruby: [DadoCe/fork-in-dojo/tree/master/dojo-s01e02-ruby](https://github.com/DadoCe/fork-in-dojo/tree/master/dojo-s01e02-ruby)
